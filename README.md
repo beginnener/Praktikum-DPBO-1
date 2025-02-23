@@ -22,3 +22,5 @@ seperti yang telah dispesifikasikan. Aamiin
 ![Screenshot 2025-02-22 095818](https://github.com/user-attachments/assets/0560be6f-7999-49be-8165-a23c9a88a9d8)
 ![Screenshot 2025-02-22 095844](https://github.com/user-attachments/assets/bd983cee-4cba-4357-a7b6-a4997f6be4cb)
 ![Screenshot 2025-02-22 095857](https://github.com/user-attachments/assets/7cf3b110-184a-4a19-9b8e-012fcac9231d)
+
+project php masih belum selesai, ada sedikit struggle
